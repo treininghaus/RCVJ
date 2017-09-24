@@ -23,7 +23,7 @@ The LEGO model of the RCVJ published here was done in LDRAW format.
 
 ## Usage
 
-Install any of the free programs which support the LDRAW file format, e.g.
+Install any of the free programs supporting the LDRAW file format, e.g.
 
 * LeoCAD http://www.leocad.org/download.html
 * LDRAW http://ldraw.org/help/getting-started.html
