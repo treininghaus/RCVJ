@@ -3,7 +3,7 @@
 This is home of the Reininghaus Constant Velocity Joint RCVJ, a maybe new solution to build a constant velocity Joint.<br>
 See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
-<img src="//./docs/V9b1.png">
+<img src="docs/V9b1.png">
 
 ## Motivation
 
@@ -29,10 +29,21 @@ Install any of the free programs which support the LDRAW file format, e.g.
 * LDRAW http://ldraw.org/help/getting-started.html
 * LEGO Digital Designer (LDD) http://ldd.lego.com/en-us/download
 
-Download this model [RCVJ.ldr](//./model/RCVJ.ldr) and load it into the software. Have fun building the model.
+Download this model [RCVJ.ldr](model/RCVJ.ldr) and load it into the software. Have fun building the model.
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-In case you want to commercially use the model, contact me at _________________
+In case you are interrested in commercial use of the model, fill out the form provided by the external free service [Flipmail](http://flipmail.co) to contact me.
+
+<form action="//flipmail.co/api/rbZQ8BOk19d6CaYlw64j" method="post">
+   <input type="text" name="name">
+   <input type="email" name="email">
+   <textarea name="message"></textarea>
+   <button type="submit">Submit Form</button>
+   <input type="hidden" name="_subject" value="RCVJ inquiry">
+   <input type="hidden" name="_confirmation" value="Thank you! We have received your message and will get back to you asap.">
+   <input type="text" name="_honey" value="" style="display:none">
+   <input type="hidden" name="_replyto" value="%email">
+</form>
