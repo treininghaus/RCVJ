@@ -3,11 +3,11 @@
 This is home of the Reininghaus Constant Velocity Joint RCVJ, a maybe new solution to build a constant velocity Joint.<br>
 See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
-![povray from LDRAW model](docs/V9b1.png)
+<img src="//./docs/V9b1.png">
 
 ## Motivation
 
-The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO :copyright: parts.
+The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &copy; parts.
 
 Because the mechanism is to complex and has to much friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
 
