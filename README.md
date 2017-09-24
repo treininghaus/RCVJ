@@ -13,7 +13,7 @@ Because the mechanism is to complex and has to much friction, it is likely that 
 
 ## Solution
 
-In case of the patented Thompson Coupling the double gimbal transfers the shaft torque while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism has to act as a spatial angle bisector mechanism.
+In case of the patented Thompson Coupling &; the double gimbal transfers the shaft torque while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism has to act as a spatial angle bisector mechanism.
 
 In the RCVJ model the spherical pantograph is replaced by two differential gears, one for each gimbal. The differential gears are forming the angle bisector mechanism for their respective plane and are acting perpendicular to each other. This way the spherical problem is reduced to a two-dimensional problem and the model can be realized using standard LEGO parts.
 
@@ -29,7 +29,7 @@ Install any of the free programs which support the LDRAW file format, e.g.
 * LDRAW http://ldraw.org/help/getting-started.html
 * LEGO Digital Designer (LDD) http://ldd.lego.com/en-us/download
 
-Download this model [RCVJ.ldr](file://./model/RCVJ.ldr) and load it into the software. Have fun building the model.
+Download this model [RCVJ.ldr](//./model/RCVJ.ldr) and load it into the software. Have fun building the model.
 
 ## License
 
