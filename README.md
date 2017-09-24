@@ -34,21 +34,3 @@ Download this model [RCVJ.ldr](model/RCVJ.ldr) and load it into the software. Ha
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-
-# Contact
-
-In case you are interrested in commercial use of the model, fill out the form provided by the external free service [Flipmail](http://flipmail.co) to contact me.
-
-<form action="//flipmail.co/api/rbZQ8BOk19d6CaYlw64j" method="post">
-  <label for="name">Name</label>
-  <input type="text" name="name"></input><br><br>
-  <label for="email">EMail*</label>
-  <input type="email" name="email" required="true"></input><br><br>
-  Message
-  <textarea name="message"></textarea><br><br>
-  <button type="submit">Send message</button>
-  <input type="hidden" name="_subject" value="RCVJ inquiry"></input>
-  <input type="hidden" name="_confirmation" value="Thank you! We have received your message and will get back to you asap."></input>
-  <input type="text" name="_honey" value="" style="display:none"></input>
-  <input type="hidden" name="_replyto" value="%email"></input>
-</form>
