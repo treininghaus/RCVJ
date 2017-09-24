@@ -29,7 +29,7 @@ Install any of the free programs which support the LDRAW file format, e.g.
 * LDRAW http://ldraw.org/help/getting-started.html
 * LEGO Digital Designer (LDD) http://ldd.lego.com/en-us/download
 
-Download the model from the `model` directory and load it into the software. Have fun building the model.
+Download this model [RCVJ.ldr](file://./model/RCVJ.ldr) and load it into the software. Have fun building the model.
 
 ## License
 
