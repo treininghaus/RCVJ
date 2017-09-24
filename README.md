@@ -9,11 +9,11 @@ See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
 The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &copy; parts.
 
-Because the mechanism is to complex and has to much friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
+Because the RCVJ mechanism is to complex and has to much friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
 
 ## Solution
 
-In case of the patented Thompson Coupling &reg; &trade; the double gimbal transfers the shaft torque while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism has to act as a spatial angle bisector mechanism.
+In case of the patented Thompson Coupling &reg; &trade; the double gimbal transfers the shaft torque while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism acts as a spatial angle bisector mechanism.
 
 In the RCVJ model the spherical pantograph is replaced by two differential gears, one for each gimbal. The differential gears are forming the angle bisector mechanism for their respective plane and are acting perpendicular to each other. This way the spherical problem is reduced to a two-dimensional problem and the model can be realized using standard LEGO parts.
 
