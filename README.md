@@ -40,12 +40,15 @@ Download this model [RCVJ.ldr](model/RCVJ.ldr) and load it into the software. Ha
 In case you are interrested in commercial use of the model, fill out the form provided by the external free service [Flipmail](http://flipmail.co) to contact me.
 
 <form action="//flipmail.co/api/rbZQ8BOk19d6CaYlw64j" method="post">
-   <input type="text" name="name">
-   <input type="email" name="email">
-   <textarea name="message"></textarea>
-   <button type="submit">Submit Form</button>
-   <input type="hidden" name="_subject" value="RCVJ inquiry">
-   <input type="hidden" name="_confirmation" value="Thank you! We have received your message and will get back to you asap.">
-   <input type="text" name="_honey" value="" style="display:none">
-   <input type="hidden" name="_replyto" value="%email">
+  <label for="name">Name</label>
+  <input type="text" name="name"></input><br><br>
+  <label for="email">EMail*</label>
+  <input type="email" name="email" required="true"></input><br><br>
+  Message
+  <textarea name="message"></textarea><br><br>
+  <button type="submit">Send message</button>
+  <input type="hidden" name="_subject" value="RCVJ inquiry"></input>
+  <input type="hidden" name="_confirmation" value="Thank you! We have received your message and will get back to you asap."></input>
+  <input type="text" name="_honey" value="" style="display:none"></input>
+  <input type="hidden" name="_replyto" value="%email"></input>
 </form>
