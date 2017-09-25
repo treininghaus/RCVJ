@@ -7,19 +7,19 @@ See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
 ## Motivation
 
-The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &copy; parts.
+The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &trade; parts.
 
 Because the proposed RCVJ mechanism has a high grade of complexity compared to the CV joints commonly in use (Birfield, Rzeppa, Tripods) and the gears introduce an additional amount of friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
 
 ## Solution
 
-In case of the patented Thompson Coupling &reg; &trade; the double gimbal transfers the shaft torque, while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism acts as a spatial angle bisector mechanism.
+In case of the patented [Thompson Coupling](https://en.wikipedia.org/wiki/Constant-velocity_joint#Thompson_coupling) the double gimbal transfers the shaft torque, while the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism acts as a spatial angle bisector mechanism.
 
 In the RCVJ mechanism the spherical pantograph is replaced by two differential gears, one for each gimbal. The differential gears are forming the angle bisector mechanism for their respective plane and are acting perpendicular to each other. We could therefore call it a differential bisecting constant velocity joint. This way the spherical problem is reduced to a two-dimensional problem and the model can be realized using standard LEGO parts.
 
 ## Model
 
-The [LEGO model](model/RCVJ.ldr) of the RCVJ published here was done in LDRAW format.
+The [LEGO model](model/RCVJ.ldr) of the RCVJ was done in LDRAW format.
 
 ## Usage
 
