@@ -7,7 +7,7 @@ See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
 ## Motivation
 
-The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &trade; parts.
+The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &reg; parts.
 
 Because the proposed RCVJ mechanism has a high grade of complexity compared to the CV joints commonly in use (Birfield, Rzeppa, Tripods) and the gears introduce an additional amount of friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
 
@@ -20,6 +20,8 @@ In the RCVJ mechanism the spherical pantograph is replaced by two differential g
 ## Model
 
 The [LEGO model](model/RCVJ.ldr) of the RCVJ was done in LDRAW format.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/okMCTcgzmAw?ecver=2" width="640" height="360" frameborder="0" style="position:absolute;width:100%;height:100%;left:0" allowfullscreen></iframe></div>
 
 ## Usage
 
