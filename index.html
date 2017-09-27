@@ -487,7 +487,7 @@ pre.editor-colors .fold-marker:after {
   <body class='markdown-preview' data-use-github-style><h1 id="rcvj">RCVJ</h1>
 <p>This is home of the Reininghaus Constant Velocity Joint RCVJ, a maybe new solution to build a constant velocity Joint.<br>
 See <a href="https://en.wikipedia.org/wiki/Constant-velocity_joint">https://en.wikipedia.org/wiki/Constant-velocity_joint</a>.</p>
-<p><img src="/home/tom/QuadBike/LegoModell/RCVJ.git/docs/V9b1.png" alt="RCVJ.png"></p>
+<p><img src="docs/V9b1.png" alt="RCVJ.png"></p>
 <h2 id="motivation">Motivation</h2>
 <p>The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &trade; parts.</p>
 <p>Because the proposed RCVJ mechanism has a high grade of complexity compared to the CV joints commonly in use (Birfield, Rzeppa, Tripods) and the gears introduce an additional amount of friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.</p>
@@ -518,8 +518,8 @@ See <a href="https://en.wikipedia.org/wiki/Constant-velocity_joint">https://en.w
 	  camera.position.set( - 150, 300, 600 );
 	  scene = new THREE.Scene();
 	  //
-    // var manager = new THREE.LoadingManager();
-    var loader = new THREE.OBJLoader( );
+    var manager = new THREE.LoadingManager();
+    var loader = new THREE.OBJLoader( manager);
     loader.load( 'model/RCVJ.obj', function ( object ) {
       scene.add( object );
     });
