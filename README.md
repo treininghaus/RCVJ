@@ -19,7 +19,7 @@ In the RCVJ mechanism the spherical pantograph is replaced by two differential g
 
 ## Model
 
-The [LEGO model](model/RCVJ.ldr) of the RCVJ was done in LDRAW format.
+The LEGO model of the RCVJ was done in LDRAW and Lego Digital Designer (LDD) format.
 
 [Youtube Video](https://www.youtube.com/embed/okMCTcgzmAw?ecver=2) of the model in action.
 
@@ -29,9 +29,9 @@ Install any of the free programs supporting the LDRAW file format, e.g.
 
 * LeoCAD http://www.leocad.org/download.html
 * LDRAW http://ldraw.org/help/getting-started.html
-* LEGO Digital Designer (LDD) http://ldd.lego.com/en-us/download
+* LDD http://ldd.lego.com/en-us/download
 
-Download this model [RCVJ.ldr](model/RCVJ.ldr) and load it into the software. Have fun building the model.
+For LDRAW and LeoCAD download this model [RCVJ.ldr](model/RCVJ.ldr). For LDD download this model [RCVJ.lxf](model/RCVJ.lxf). Load the model file into the software. Have fun building the model.
 
 ## License
 
