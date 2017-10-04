@@ -19,9 +19,11 @@ In the RCVJ mechanism the spherical pantograph is replaced by two differential g
 
 ## Model
 
-The LEGO model of the RCVJ was was created with LDRAW and Lego Digital Designer.
+The LEGO model of the RCVJ was created with LDRAW and Lego Digital Designer.
 
 [Youtube Video](https://www.youtube.com/embed/okMCTcgzmAw?ecver=2) of the model in action.
+
+[Interactive 3D Model](docs/3DInteractiveModel.html)
 
 ## Usage
 
