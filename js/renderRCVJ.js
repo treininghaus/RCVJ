@@ -9,7 +9,7 @@ function init() {
 	//
 	var manager = new THREE.LoadingManager();
 	var loader = new THREE.OBJLoader( manager);
-	loader.load( 'model/RCVJ.obj', function ( object ) {
+	loader.load( '../model/RCVJ.obj', function ( object ) {
 		scene.add( object );
 	});
    	//
@@ -46,4 +46,3 @@ function render() {
 
 init();
 animate();
-
