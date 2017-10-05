@@ -1,13 +1,13 @@
 # RCVJ
 
-This is home of the Reininghaus Constant Velocity Joint RCVJ, a maybe new solution to build a constant velocity Joint.<br>
+This is home of the Reininghaus Constant Velocity Joint RCVJ, a possibly innovative solution to build a constant velocity joint.<br>
 See https://en.wikipedia.org/wiki/Constant-velocity_joint.
 
 ![RCVJ.png](docs/RCVJ.png)
 
 ## Motivation
 
-The idea for this new solution came to me, when I tried to build a constant velocity joint only using LEGO &trade; parts.
+The idea for this new solution came to me, when I tried to build a constant velocity joint using exclusively LEGO &trade; parts.
 
 Because the proposed RCVJ mechanism has a high grade of complexity compared to the CV joints commonly in use (Birfield, Rzeppa, Tripods) and the gears introduce an additional amount of friction, it is likely that there will be no usefull applications. None the less it is a beautiful mechanism to watch moving.
 
