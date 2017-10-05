@@ -13,17 +13,15 @@ Because the proposed RCVJ mechanism has a high grade of complexity compared to t
 
 ## Solution
 
-The patented [Thompson Coupling ](https://en.wikipedia.org/wiki/Constant-velocity_joint#Thompson_coupling) &reg; transfers the shaft torque via a double gimbal, where as the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism acts as a spatial angle bisector mechanism.
+The patented [Thompson Coupling ](https://en.wikipedia.org/wiki/Constant-velocity_joint#Thompson_coupling) &reg; transfers the shaft torque via a double gimbal, whereas the spherical pantograph establishes the perpendicular to the homocinetic plane. To accomplish this the pantograph scissor mechanism acts as a spatial angle bisector mechanism.
 
-In the RCVJ mechanism the spherical pantograph is replaced by two differential gears, one for each gimbal. The differential gears are forming the angle bisector mechanism for their respective plane and are acting perpendicularly to each other. We could therefore call it a differential bisecting constant velocity joint. This way the spherical problem is reduced to a two-dimensional problem and the model can be realized using standard LEGO parts.
+In the RCVJ mechanism the spherical pantograph is replaced by two differential gears, one for each gimbal. The differential gears form the angle bisector mechanism for their respective plane and act perpendicularly to each other. We could therefore call it a differential bisecting constant velocity joint. This way the spherical problem is reduced to a two-dimensional problem and the model can be realized using standard LEGO parts.
 
 ## Model
 
-The LEGO model of the RCVJ was created with LDRAW and Lego Digital Designer.
+The LEGO model of the RCVJ was created with LDRAW and Lego Digital Designer (LDD).
 
 [Youtube Video](https://www.youtube.com/embed/okMCTcgzmAw?ecver=2) of the model in action.
-
-[Interactive 3D Model](docs/3DInteractiveModel.html)
 
 ## Usage
 
